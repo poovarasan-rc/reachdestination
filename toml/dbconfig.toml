@@ -1,0 +1,9 @@
+Server = "localhost"
+Port = 3306
+User = "setter"
+Password = "setter@123"
+Database = "appscrt"
+
+MaxOpenConns = 100
+MaxIdleConns = 5
+MaxIdleTime = 10
